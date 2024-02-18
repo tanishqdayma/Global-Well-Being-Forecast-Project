@@ -1,28 +1,42 @@
-# Global-Well-Being-Forecast-Project
+# Global Well-Being Forecast Project
 
 ## Overview
 
-The Global Well-Being Forecast Project is a data-driven initiative focused on predicting happiness scores worldwide. Leveraging advanced statistical models, exploratory data analysis and regression analysis, this project delves into understanding the complex interplay of economic, social, and psychological factors influencing global well-being.
+The **Global Well-Being Forecast Project** is a data-driven initiative dedicated to predicting happiness scores worldwide. Employing advanced statistical models, exploratory data analysis, and regression analysis, the project aims to unravel the intricate interplay of economic, social, and psychological factors influencing global well-being.
+
+## Source of the data
+
+The dataset being used for this analysis can be found at the below link: https://worldhappiness.report/data/
 
 ## Objectives
 
-- Conduct comprehensive exploratory data analysis to uncover key factors shaping well-being.
-- Implement regression model and enhance the efficiency by incorporating using feature engineering, regularization techniques and hyperparameter tuning.
-- Develop precise regression models (Linear, LASSO, Ridge, Elastic Net, Polynomial) to forecast happiness scores with a remarkable accuracy.
-- 
+1. **Exploratory Data Analysis:**
+   - Conduct a comprehensive exploratory data analysis to unearth key factors shaping well-being.
+
+2. **Regression Model Implementation:**
+   - Implement regression models and enhance efficiency through feature engineering, regularization techniques, and hyperparameter tuning.
+
+3. **Precise Regression Models:**
+   - Develop precise regression models, including Linear, LASSO, Ridge, Elastic Net, and Polynomial Regression, to forecast happiness scores with remarkable accuracy.
+
 ## Technologies Used
 
-- **Python:** Leveraged for data preprocessing, statistical modeling, and scripting.
-- **Jupyter Notebooks:** Utilized for interactive and detailed data analysis.
-- **Pandas:** Employed for data manipulation and transformation.
+- **Python:**
+  - Leveraged for data preprocessing, statistical modeling, and scripting.
 
-- ### Machine Learning Frameworks:
-- scikit-learn
-- Regression models - Implemented several regression models, including:
-  - Linear Regression
-  - LASSO Regression
-  - Ridge Regression
-  - Elastic Net
-  - Polynomial Regression
-  
-- **Matplotlib and Seaborn:** Used for data visualization and insights presentation.
+- **Jupyter Notebooks:**
+  - Utilized for interactive and detailed data analysis.
+
+- **Pandas:**
+  - Employed for data manipulation and transformation.
+
+### Machine Learning Frameworks
+
+- **scikit-learn:**
+  - Implemented several regression models, such as Linear Regression, LASSO Regression, Ridge Regression, Elastic Net, and Polynomial Regression.
+
+- **Visualization Tools:**
+  - **Matplotlib and Seaborn:**
+    - Used for data visualization and insights presentation.
+   
+![Screenshot](global-well-being.png)
