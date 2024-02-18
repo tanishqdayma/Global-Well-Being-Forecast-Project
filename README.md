@@ -2,7 +2,7 @@
 
 ## Overview
 
-The **Global Well-Being Forecast Project** is a data-driven initiative dedicated to predicting happiness scores worldwide. Employing advanced statistical models, exploratory data analysis, and regression analysis, the project aims to unravel the intricate interplay of economic, social, and psychological factors influencing global well-being.
+The **Global Well-Being Forecast Project** is a data-driven initiative dedicated to predicting happiness scores worldwide. Employing advanced statistical models, exploratory data analysis, and regression analysis, the project delves deeper into understanding the complex interplay of economic, social, and psychological factors influencing global well-being.
 
 ## Source of the data
 
